@@ -13,4 +13,4 @@ General-purpose humanoid software engineer, capable of completing challenging ta
 including but not limited to: website engineering, application, database management. <br>
 Current model focusing on high processing speed, accuracy, and long battery life. <br>
 Version: Undergraduate, junior year computer science major student in UCSD. <br>
-Contributing: Bug report and opportunity offers are welcome through emailing mic035@ucsd.edu. <br>
+Contributing: Bug report and opportunity offer are welcome through emailing mic035@ucsd.edu. <br>
