@@ -17,8 +17,9 @@ Bug report and opportunity offers are welcome through emailing mic035@ucsd.edu. 
 
 ## CSE 110 Lab Week 1
 
-**My mortal enemy** <br>
-![chica](image/chica.png)
+**My mortal enemy**
+
+<img src="image/chica.png" alt="chica" width="200" height="200">
 
 ### Headings
 
@@ -32,7 +33,7 @@ Bug report and opportunity offers are welcome through emailing mic035@ucsd.edu. 
 
 [Section Link](#headings)
 
-Relative links (Link to another .md file or an image in your repo. If linking to an image, encode it as a regular link rather than an image.)
+[Relative links](/about.markdown)
 
 - Ordered List
 
