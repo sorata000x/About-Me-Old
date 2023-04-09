@@ -18,7 +18,7 @@ Bug report and opportunity offers are welcome through emailing mic035@ucsd.edu. 
 ## CSE 110 Lab Week 1
 
 **My mortal enemy** <br>
-![chica](chica.png)
+![chica](/About-Me/image/chica.png)
 
 ### Headings
 
