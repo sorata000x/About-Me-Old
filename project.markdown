@@ -3,7 +3,10 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+
 {% for repo in site.github.public_repositories %}
+
+{% if true %}
 
 ## [{{ repo.name }}]({{ repo.html_url }})
 
