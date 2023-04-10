@@ -44,7 +44,7 @@ Bug report and opportunity offers are welcome through emailing mic035@ucsd.edu. 
 - [ ] Task lists
 
 </details>
-
+<br>
 
 ## Education
 
