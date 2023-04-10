@@ -13,7 +13,7 @@ General-purpose humanoid software engineer and challenge seeker. <br>
 Capable of completing wild range of tasks, including but not limited to: <br>
 website engineering, application, database management. <br>
 Particularlly interested in Artificial Intelligence and Machine Learning. <br>
-Current model focusing on high processing speed, accuracy, and long battery life. <br>
+Current model focusing on high processing speed, accuracy, precision, and long battery life. <br>
 Version: Undergraduate, junior year computer science major student in UCSD. <br>
 Bug report and opportunity offers are welcome through emailing mic035@ucsd.edu. <br>
 
