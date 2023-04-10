@@ -44,4 +44,49 @@ Bug report and opportunity offers are welcome through emailing mic035@ucsd.edu. 
 
 </details>
 
+## Education
 
+### Informal
+
+**MySQL**
+- [MySQL Tutorial for Beginners [Full Course]](https://www.youtube.com/watch?v=7S_tz1z_5bA&t=1214s)
+
+**React**
+- Pro React 16
+
+**PyQt6**
+- [Python GUIs, PyQt6 tutorial](https://www.pythonguis.com/pyqt6-tutorial/)
+
+### UCSD
+
+Spring 2023 (In Progress)
+
+**CSE 150B. AI: Search and Reasoning**
+
+**CSE 151A. Machine Learning**
+
+**CSE 110. Software Engineering**
+
+**CSE 140. Digital Systems**
+
+**CSE 140L. Digital Systems Laboratory**
+
+Winter 2023
+
+**CSE 152A. Computer Vision I**
+
+**CSE 100. Advanced Data Structures**
+
+**CSE 105. Theory of Computability**
+
+**CSE 101. Algorithms II**
+
+Fall 2022
+
+**MATH 183. Statistics**
+
+**CSE 15L. Software Tools and Techniques Laboratory**
+
+**CSE 21. Algorithms**
+
+**CSE 193. Computer Science Research**
