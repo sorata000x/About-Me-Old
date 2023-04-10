@@ -11,6 +11,7 @@ title: ''
 
 General-purpose humanoid software engineer, capable of completing challenging tasks, <br>
 including but not limited to: website engineering, application, database management. <br>
+Particularlly interested in Artificial Intelligence and Machine Learning. <br>
 Current model focusing on high processing speed, accuracy, and long battery life. <br>
 Version: Undergraduate, junior year computer science major student in UCSD. <br>
 Bug report and opportunity offers are welcome through emailing mic035@ucsd.edu. <br>
@@ -49,15 +50,15 @@ Bug report and opportunity offers are welcome through emailing mic035@ucsd.edu. 
 ### Informal
 
 **MySQL**
-- [MySQL Tutorial for Beginners [Full Course]](https://www.youtube.com/watch?v=7S_tz1z_5bA&t=1214s)
+- (Video) [MySQL Tutorial for Beginners [Full Course]](https://www.youtube.com/watch?v=7S_tz1z_5bA&t=1214s)
 
 **React**
-- Pro React 16
+- (Book) Pro React 16
 
 **PyQt6**
-- [Python GUIs, PyQt6 tutorial](https://www.pythonguis.com/pyqt6-tutorial/)
+- (Website) [Python GUIs, PyQt6 tutorial](https://www.pythonguis.com/pyqt6-tutorial/)
 
-### UCSD
+### University of California San Diego
 
 Spring 2023 (In Progress)
 
