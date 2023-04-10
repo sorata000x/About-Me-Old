@@ -15,11 +15,12 @@ Current model focusing on high processing speed, accuracy, and long battery life
 Version: Undergraduate, junior year computer science major student in UCSD. <br>
 Bug report and opportunity offers are welcome through emailing mic035@ucsd.edu. <br>
 
-## CSE 110 Lab Week 1
-
 **My mortal enemy**
 
-<img src="image/chica.png" alt="chica" width="200" height="200">
+<img src="image/chica.png" alt="chica" width="150" height="150">
+
+<details>
+<summary>CSE 110 Lab Week 1</summary>
 
 ### Headings
 
@@ -40,4 +41,7 @@ Bug report and opportunity offers are welcome through emailing mic035@ucsd.edu. 
 1. Unordered List
 
 - [ ] Task lists
+
+</details>
+
 
