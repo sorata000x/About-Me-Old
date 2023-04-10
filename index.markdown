@@ -45,6 +45,8 @@ Bug report and opportunity offers are welcome through emailing mic035@ucsd.edu. 
 
 </details>
 
+<br>
+
 ## Education
 
 ### Informal
