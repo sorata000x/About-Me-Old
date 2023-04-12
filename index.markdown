@@ -9,7 +9,7 @@ title: ''
 
 # Aiden Chen
 
-General-purpose humanoid Software Engineer and Challenge Seeker. <br>
+General-purpose humanoid Programmer and Challenge Seeker. <br>
 Capable of completing wild range of tasks, including but not limited to: <br>
 Website Engineering, Application, Database Management. <br>
 Particularlly interested in Artificial Intelligence and Machine Learning. <br>
