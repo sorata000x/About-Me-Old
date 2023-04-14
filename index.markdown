@@ -15,7 +15,7 @@ Website Engineering, Application, Database Management. <br>
 Particularlly interested in Artificial Intelligence and Machine Learning. <br>
 Current model focusing on high processing speed, accuracy, precision, and long battery life. <br>
 Version: Undergraduate, junior year Computer Science major student in UCSD. <br>
-Bug report and opportunity offers are welcome through emailing mic035@ucsd.edu. <br>
+Bug report and opportunity offers are welcome through emailing [mic035@ucsd.edu](mic035@ucsd.edu). <br>
 
 <details>
 <summary>CSE 110 Lab Week 1</summary>
