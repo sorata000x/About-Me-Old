@@ -3,8 +3,6 @@ layout: page
 title: Education
 ---
 
-## Education
-
 ### Informal
 
 [MySQL](./educations/mysql.markdown)
