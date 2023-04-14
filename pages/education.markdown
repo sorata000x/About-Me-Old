@@ -17,8 +17,6 @@ Spring 2023 (In Progress)
 
 CSE 150B. AI: Search and Reasoning
 
-CSE 151A. Machine Learning
-
 CSE 110. Software Engineering
 
 CSE 140. Digital Systems
