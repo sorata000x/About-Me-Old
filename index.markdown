@@ -7,7 +7,7 @@ list_title: Read Our Latest Posts
 title: ''
 ---
 
-# Aiden Chen
+## About Me
 
 General-purpose humanoid Programmer and Challenge Seeker. <br>
 Capable of completing wild range of tasks, including but not limited to: <br>
@@ -63,32 +63,32 @@ Bug report and opportunity offers are welcome through emailing mic035@ucsd.edu. 
 
 Spring 2023 (In Progress)
 
-**CSE 150B. AI: Search and Reasoning**
+CSE 150B. AI: Search and Reasoning
 
-**CSE 151A. Machine Learning**
+CSE 151A. Machine Learning
 
-**CSE 110. Software Engineering**
+CSE 110. Software Engineering
 
-**CSE 140. Digital Systems**
+CSE 140. Digital Systems
 
-**CSE 140L. Digital Systems Laboratory**
+CSE 140L. Digital Systems Laboratory
 
 Winter 2023
 
-**CSE 152A. Computer Vision I**
+CSE 152A. Computer Vision I
 
-**CSE 100. Advanced Data Structures**
+CSE 100. Advanced Data Structures
 
-**CSE 105. Theory of Computability**
+CSE 105. Theory of Computability
 
-**CSE 101. Algorithms II**
+CSE 101. Algorithms II
 
 Fall 2022
 
-**MATH 183. Statistics**
+MATH 183. Statistics
 
-**CSE 15L. Software Tools and Techniques Laboratory**
+CSE 15L. Software Tools and Techniques Laboratory
 
-**CSE 21. Algorithms**
+CSE 21. Algorithms
 
-**CSE 193. Computer Science Research**
+CSE 193. Computer Science Research
