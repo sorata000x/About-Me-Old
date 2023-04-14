@@ -81,7 +81,7 @@ CSE 100. Advanced Data Structures
 
 CSE 105. Theory of Computability
 
-CSE 101. Algorithms II
+[CSE 101. Algorithms II](page/education/ucsd/CSE101.markdown)
 
 Fall 2022
 
