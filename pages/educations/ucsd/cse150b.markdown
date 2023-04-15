@@ -1,3 +1,19 @@
 ### Description
 
-The course will introduce important ideas and algorithms in search and reasoning and demonstrate how they are used in practical AI applications. Topics include A* search, adversarial search, Monte Carlo tree search, reinforcement learning, constraint solving and optimization, propositional and first-order reasoning.
+Introduces important ideas and algorithms in search and reasoning and demonstrate how they are used in practical AI applications. 
+
+### Topic
+
+- Heuristic search (A*)
+- Adversary search
+- Monte Carlo tree search
+- Reinforcement learning
+- Constraint solving and optimization
+- Propositional and first-order reasoning
+
+### Programming Assignment
+
+#### PA1
+
+<image src="./image/cse150b_demo_01.gif" width=300/>
+
