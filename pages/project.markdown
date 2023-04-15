@@ -15,7 +15,7 @@ permalink: /projects/
 
 {{ repo.description }}
 
-<image src="../image/project/achievement_demo.gif" width=500/>
+<image src="../image/project/achievement_demo.gif" width=500/> <br>
 
 Topics: {{ repo.topics | array_to_sentence_string }}
 
@@ -32,7 +32,7 @@ Last updated: {{ repo.updated_at | date_to_string }}
 
 {{ repo.description }}
 
-<image src="../image/project/expbar_demo.gif" width=500/>
+<image src="../image/project/expbar_demo.gif" width=500/> <br>
 
 Topics: {{ repo.topics | array_to_sentence_string }}
 
@@ -64,7 +64,7 @@ Last updated: {{ repo.updated_at | date_to_string }}
 
 {{ repo.description }}
 
-<image src="../image/project/battleship_demo.gif" width=500/>
+<image src="../image/project/battleship_demo.gif" width=500/> <br>
 
 Topics: {{ repo.topics | array_to_sentence_string }}
 
@@ -81,7 +81,7 @@ Last updated: {{ repo.updated_at | date_to_string }}
 
 {{ repo.description }}
 
-<image src="../image/project/chess_demo.gif" width=500/>
+<image src="../image/project/chess_demo.gif" width=500/> <br>
 
 Topics: {{ repo.topics | array_to_sentence_string }}
 
