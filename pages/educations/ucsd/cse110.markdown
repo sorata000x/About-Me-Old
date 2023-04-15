@@ -1,0 +1,4 @@
+### Description
+
+Introduction to software development and engineering methods, including specification, design, implementation, testing, and process. An emphasis on team development, agile methods, and use of tools such as IDE’s, version control, and test harnesses. 
+
