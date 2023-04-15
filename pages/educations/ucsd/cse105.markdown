@@ -1,3 +1,8 @@
+---
+layout: post
+title: cse105
+---
+
 ### Description
 
 An introduction to the mathematical theory of computability. Formal languages. Finite automata and regular expressions. Push-down automata and context-free languages. Computable or recursive functions: Turing machines, the halting problem. Undecidability. 

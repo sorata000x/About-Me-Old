@@ -1,3 +1,8 @@
+---
+layout: post
+title: cse101
+---
+
 ### Description
 
 Design and analysis of efficient algorithms with emphasis of nonnumerical algorithms such as sorting, searching, pattern matching, and graph and network algorithms. Measuring complexity of algorithms, time and storage. NP-complete problems.

@@ -1,3 +1,8 @@
+---
+layout: post
+title: cse100
+---
+
 ### Description
 
 High-performance data structures and supporting algorithms. Use and implementation of data structures like (un)balanced trees, graphs, priority queues, and hash tables. Also, memory management, pointers, recursion. Theoretical and practical performance analysis, both average case and amortized. Uses C++ and STL.

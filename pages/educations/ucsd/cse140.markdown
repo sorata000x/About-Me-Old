@@ -1,3 +1,8 @@
+---
+layout: post
+title: cse140
+---
+
 ### Description
 
 Design of Boolean logic and finite state machines; two-level, multilevel combinational logic design, combinational modules and modular networks, Mealy and Moore machines, analysis and synthesis of canonical forms, sequential modules.

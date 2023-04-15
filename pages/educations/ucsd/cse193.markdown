@@ -1,3 +1,8 @@
+---
+layout: post
+title: cse193
+---
+
 ### Description
 
 Introduction to research in computer science. Topics include defining a CS research problem, finding and reading technical papers, oral communication, technical writing, and independent learning. Course participants apprentice with a CSE research group and propose an original research project.

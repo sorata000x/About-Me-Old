@@ -1,3 +1,8 @@
+---
+layout: post
+title: cse150
+---
+
 ### Description
 
 Introduces important ideas and algorithms in search and reasoning and demonstrate how they are used in practical AI applications. 
