@@ -28,7 +28,7 @@ Last updated: {{ repo.updated_at | date_to_string }}
 
 {% if repo.name == 'Experience-Bar' %}
 
-## [Experience Bar]({{ repo.html_url }})
+### [Experience Bar]({{ repo.html_url }})
 
 {{ repo.description }}
 
@@ -45,7 +45,7 @@ Last updated: {{ repo.updated_at | date_to_string }}
 
 {% if repo.name == 'Database-C-' %}
 
-## [ Relational Database C++ ]({{ repo.html_url }})
+### [ Relational Database C++ ]({{ repo.html_url }})
 
 {{ repo.description }}
 
@@ -60,7 +60,7 @@ Last updated: {{ repo.updated_at | date_to_string }}
 
 {% if repo.name == 'Battleship-Game-Python' %}
 
-## [Battleship Game Python]({{ repo.html_url }})
+### [Battleship Game Python]({{ repo.html_url }})
 
 {{ repo.description }}
 
@@ -77,7 +77,7 @@ Last updated: {{ repo.updated_at | date_to_string }}
 
 {% if repo.name == 'GUI-Chess-Game-Java' %}
 
-## [Chess Game Java]({{ repo.html_url }})
+### [Chess Game Java]({{ repo.html_url }})
 
 {{ repo.description }}
 
