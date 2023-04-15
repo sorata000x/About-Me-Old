@@ -1,6 +1,5 @@
 ---
-layout: post
-title: 
+layout: no-title-post
 ---
 
 ### Description
