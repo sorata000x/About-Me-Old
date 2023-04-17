@@ -18,33 +18,7 @@ Version: Undergraduate, junior year Computer Science major student in UCSD. <br>
 Bug report and opportunity offers are welcome through emailing [mic035@ucsd.edu](mic035@ucsd.edu). <br>
 
 ## [Project](pages/project.markdown)
+
 ## [Education](pages/education.markdown)
 
-<details>
-<summary>CSE 110 Lab Week 1</summary>
-
-**Mortal Enemy** <br>
-<img src="image/chica.png" alt="chica" width="120" height="120">
-
-### Headings
-
-**Styling text**
-
-> Quoting text
-
-`Quoting code`
-
-[External Link](https://www.google.com/)
-
-[Section Link](#headings)
-
-[Relative links](/about.markdown)
-
-- Ordered List
-
-1. Unordered List
-
-- [ ] Task lists
-
-</details>
-<br>
+## [CSE110 Lab1](pages/cse110_lab1.markdown)
