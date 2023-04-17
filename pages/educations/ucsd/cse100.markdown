@@ -1,7 +1,4 @@
----
-layout: post
-title: 
----
+{: .primer-spec-toc-ignore }
 
 ### Description
 
