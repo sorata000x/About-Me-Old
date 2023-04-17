@@ -1,7 +1,4 @@
----
-layout: post
-title: cse150
----
+{: .primer-spec-toc-ignore }
 
 ### Description
 

@@ -1,7 +1,4 @@
----
-layout: post
-title: cse140l
----
+{: .primer-spec-toc-ignore }
 
 ### Description
 

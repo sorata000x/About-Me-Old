@@ -1,7 +1,4 @@
----
-layout: post
-title: math183
----
+{: .primer-spec-toc-ignore }
 
 ### Description
 

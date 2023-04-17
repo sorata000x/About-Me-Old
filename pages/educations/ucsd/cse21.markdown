@@ -1,7 +1,4 @@
----
-layout: post
-title: cse21
----
+{: .primer-spec-toc-ignore }
 
 ### Description
 
