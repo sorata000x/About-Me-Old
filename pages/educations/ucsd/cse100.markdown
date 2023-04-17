@@ -1,11 +1,4 @@
----
-<<<<<<< HEAD
-layout: post
-title: 
-=======
-layout: no-title-post
->>>>>>> d8bf783b0a888710ab96f2ebb4daa2ccca41fae0
----
+{: .primer-spec-toc-ignore }
 
 ### Description
 
