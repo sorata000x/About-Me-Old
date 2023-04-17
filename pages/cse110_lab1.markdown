@@ -1,7 +1,11 @@
+---
+layout: page
+---
+
 {: .primer-spec-toc-ignore }
 
-<stong>Mortal Enemy</strong> <br>
-<img src="image/chica.png" alt="chica" width="120" height="120">
+**Mortal Enemy**
+<img src="../image/chica.png" alt="chica" width="120" height="120">
 
 ### Headings
 
