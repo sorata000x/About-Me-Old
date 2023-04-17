@@ -4,7 +4,7 @@ layout: page
 
 {: .primer-spec-toc-ignore }
 
-**Mortal Enemy**
+**Mortal Enemy**<br>
 <img src="../image/chica.png" alt="chica" width="120" height="120">
 
 ### Headings
